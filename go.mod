@@ -3,7 +3,7 @@ module github.com/commitdev/zero
 go 1.13
 
 require (
-	github.com/aws/aws-sdk-go v1.30.12
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/coreos/go-semver v0.2.0
 	github.com/gabriel-vasile/mimetype v1.1.1
 	github.com/google/go-cmp v0.3.1
@@ -22,7 +22,6 @@ require (
 	github.com/matryer/is v1.3.0 // indirect
 	github.com/mattn/go-colorable v0.1.2 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
-	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.2.0
 	github.com/spf13/cobra v0.0.6
 	github.com/stretchr/testify v1.5.1
